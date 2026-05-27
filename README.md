@@ -1,5 +1,5 @@
 <!-- ============================================================ -->
-<!-- SEO META | Engineerise Indish — AI Engineer · GenAI · Agentic AI -->
+<!-- SEO META | Sankalp Indish — AI Engineer · GenAI · Agentic AI -->
 <!-- ============================================================ -->
 <!--
   Sankalp Indish | Sankalp Indish GitHub | Sankalp Indish Portfolio
@@ -7,7 +7,7 @@
   GenAI Engineer | LLM Engineer | RAG Developer | Intelligent Automation
   Full Stack Developer India | Python Developer | TypeScript Developer
   React Developer | Next.js Developer | .NET Developer | C# Developer
-   AI Engineer | IEEE Member | Pune AI Engineer
+  Senior AI Engineer | IEEE Member | Pune AI Engineer
   DevelopingGod | sankalp-indish | sankalp.indish
   Anthropic Claude | OpenAI | LangChain | HuggingFace | Power Automate
   Azure | GCP | BigQuery | Tableau | Power BI | MongoDB | Big Data
@@ -31,7 +31,7 @@
 
 <div align="center">
   <a href="https://github.com/DevelopingGod">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=720&lines=Sankalp+Indish+%E2%80%94+AI+Engineer+%40+Eastern+Enterprise;Building+autonomous%2C+agentic+architectures;2%2B+years+turning+chaos+into+clean+pipelines;GenAI+%C2%B7+RAG+%C2%B7+Intelligent+Automation+%C2%B7+Full+Stack;Polyglot+%E2%80%94+I+code+in+5+human+languages%2C+too" alt="Sankalp Indish - AI Engineer typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=720&lines=Sankalp+Indish+%E2%80%94+AI+Engineer+%26+GenAI+Developer;Building+autonomous%2C+agentic+architectures;2%2B+years+turning+chaos+into+clean+pipelines;GenAI+%C2%B7+RAG+%C2%B7+Intelligent+Automation+%C2%B7+Full+Stack;Polyglot+%E2%80%94+I+code+in+5+human+languages%2C+too" alt="Sankalp Indish - AI Engineer typing animation" />
   </a>
 </div>
 
@@ -62,7 +62,7 @@
 
 > *"Greetings, traveler. You've just stumbled across an AI sorcerer in their natural habitat."*
 
-I'm **Sankalp Indish** — **AI Engineer at Eastern Enterprise** with **2+ years** of experience turning cryptic problems into crystalline, automized and agentic solutions. Specialising in **Generative AI**, **Agentic Automation**, **RAG pipelines**, and **end-to-end intelligent systems**.
+I'm **Sankalp Indish** — an **AI Engineer & GenAI Developer** with **2+ years** of experience turning cryptic problems into crystalline, automized and agentic solutions. Specialising in **Generative AI**, **Agentic Automation**, **RAG pipelines**, and **end-to-end intelligent systems**.
 
 ### 🧭 From Pixels to Prompts — The Transition
 
@@ -71,7 +71,7 @@ My odyssey began in the rigid geometry of **Full Stack Development** — React/R
 ```text
 2021 ──────► 2024 ──────► 2025 ──────► 2026 ──────► Now
 React/UI    Data &      AI Research   Software      AI Engineer
-Frontend    Analytics   & ML Models   Engineer      @ Eastern Enterprise
+Frontend    Analytics   & ML Models   Engineer      GenAI · Agentic AI
 ```
 
 ### 🪄 What I Do Today
@@ -88,7 +88,7 @@ As an AI Engineer, I transmute raw logic into **agentic wonders** — autonomous
 Same engineering brain. Stranger, more interesting problems.
 
 ```yaml
-role:        AI Engineer @ Eastern Enterprise
+role:        AI Engineer  ·  GenAI Developer
 experience:  2+ years
 location:    India  ·  remote-friendly worldwide
 core:        Agentic AI  ·  GenAI Assistants  ·  Intelligent Automation  ·  RAG
@@ -223,13 +223,13 @@ recharge:    basketball  ·  chess  ·  a plate of golden samosas
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevelopingGod&theme=tokyo_night" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevelopingGod&theme=tokyo_night" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevelopingGod&theme=tokyo_night" alt="Sankalp Indish GitHub contribution stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevelopingGod&theme=tokyo_night" alt="Sankalp Indish top programming languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevelopingGod&theme=tokyo_night" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevelopingGod&theme=tokyo_night&utcOffset=5.5" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevelopingGod&theme=tokyo_night" alt="Sankalp Indish most-committed language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevelopingGod&theme=tokyo_night&utcOffset=5.5" alt="Sankalp Indish coding productive time"/>
 </div>
 
 ---
@@ -306,7 +306,7 @@ I'm always open to **serendipitous networking** — whether that's a chilled gla
 
 </sub>
 
-<sub><i>Keywords: Sankalp Indish, AI Engineer India, GenAI Engineer, Agentic AI Developer, LLM Engineer, RAG Developer, Intelligent Automation, Anthropic Claude, OpenAI, LangChain, HuggingFace, Power Automate, Azure, GCP, BigQuery, Tableau, Power BI, Python, TypeScript, React, Next.js, .NET, C#, MongoDB, Big Data, Full Stack Developer, Eastern Enterprise, IEEE, DevelopingGod.</i></sub>
+<sub><i>Keywords: Sankalp Indish, AI Engineer India, GenAI Engineer, Agentic AI Developer, LLM Engineer, RAG Developer, Intelligent Automation, Anthropic Claude, OpenAI, LangChain, HuggingFace, Power Automate, Azure, GCP, BigQuery, Tableau, Power BI, Python, TypeScript, React, Next.js, .NET, C#, MongoDB, Big Data, Full Stack Developer, IEEE, DevelopingGod.</i></sub>
 
 </div>
 
