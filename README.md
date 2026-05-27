@@ -223,13 +223,13 @@ recharge:    basketball  ·  chess  ·  a plate of golden samosas
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevelopingGod&theme=tokyo_night" alt="Sankalp Indish GitHub contribution stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevelopingGod&theme=tokyo_night" alt="Sankalp Indish top programming languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevelopingGod&theme=tokyo_night" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevelopingGod&theme=tokyo_night" alt=""/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevelopingGod&theme=tokyo_night" alt="Sankalp Indish most-committed language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevelopingGod&theme=tokyo_night&utcOffset=5.5" alt="Sankalp Indish coding productive time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevelopingGod&theme=tokyo_night" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevelopingGod&theme=tokyo_night&utcOffset=5.5" alt=""/>
 </div>
 
 ---
