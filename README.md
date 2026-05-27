@@ -1,10 +1,29 @@
 <!-- ============================================================ -->
+<!-- SEO META | Sankalp Indish — AI Engineer · GenAI · Agentic AI -->
+<!-- ============================================================ -->
+<!--
+  Sankalp Indish | Sankalp Indish GitHub | Sankalp Indish Portfolio
+  AI Engineer India | Generative AI Engineer | Agentic AI Developer
+  GenAI Engineer | LLM Engineer | RAG Developer | Intelligent Automation
+  Full Stack Developer India | Python Developer | TypeScript Developer
+  React Developer | Next.js Developer | .NET Developer | C# Developer
+  Eastern Enterprise AI Engineer | IEEE Member | Pune AI Engineer
+  DevelopingGod | sankalp-indish | sankalp.indish
+  Anthropic Claude | OpenAI | LangChain | HuggingFace | Power Automate
+  Azure | GCP | BigQuery | Tableau | Power BI | MongoDB | Big Data
+  Available for AI Engineering, GenAI Consulting, Agentic Automation
+-->
+
+<!-- ============================================================ -->
 <!--                        HEADER BANNER                          -->
 <!-- ============================================================ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,10,30&height=230&section=header&text=Sankalp%20Indish&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Agentic%20Automation%20%C2%B7%20GenAI%20Sorcerer&descAlignY=58&descSize=18" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,10,30&height=230&section=header&text=Sankalp%20Indish&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Agentic%20Automation%20%C2%B7%20GenAI%20Sorcerer&descAlignY=58&descSize=18" width="100%" alt="Sankalp Indish - AI Engineer, Agentic Automation Specialist, GenAI Developer"/>
 </div>
+
+<h1 align="center">Hi 👋, I'm Sankalp Indish</h1>
+<h3 align="center">AI Engineer · Agentic Automation Architect · GenAI Developer · Full Stack Engineer</h3>
 
 <!-- ============================================================ -->
 <!--                       TYPING TAGLINE                          -->
@@ -12,7 +31,7 @@
 
 <div align="center">
   <a href="https://github.com/DevelopingGod">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=720&lines=AI+Engineer+%40+Eastern+Enterprise;Building+autonomous%2C+agentic+architectures;2%2B+years+turning+chaos+into+clean+pipelines;Polyglot+%E2%80%94+I+code+in+5+human+languages%2C+too" alt="typing-tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=720&lines=Sankalp+Indish+%E2%80%94+AI+Engineer+%40+Eastern+Enterprise;Building+autonomous%2C+agentic+architectures;2%2B+years+turning+chaos+into+clean+pipelines;GenAI+%C2%B7+RAG+%C2%B7+Intelligent+Automation+%C2%B7+Full+Stack;Polyglot+%E2%80%94+I+code+in+5+human+languages%2C+too" alt="Sankalp Indish - AI Engineer typing animation" />
   </a>
 </div>
 
@@ -22,15 +41,15 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sankalp-indish/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sankalp Indish LinkedIn"/>
   </a>
   <a href="https://sites.google.com/view/sankalp-indish/">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sankalp Indish Portfolio"/>
   </a>
   <a href="https://sankalp-indish-all-projects.vercel.app/">
-    <img src="https://img.shields.io/badge/All_Projects-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="All Projects"/>
+    <img src="https://img.shields.io/badge/All_Projects-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Sankalp Indish All Projects"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=DevelopingGod&label=Profile%20views&color=8B5CF6&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=DevelopingGod&label=Profile%20views&color=8B5CF6&style=for-the-badge" alt="Sankalp Indish GitHub profile views"/>
 </div>
 
 <br/>
@@ -43,7 +62,7 @@
 
 > *"Greetings, traveler. You've just stumbled across an AI sorcerer in their natural habitat."*
 
-I'm **Sankalp** — **AI Engineer at Eastern Enterprise** with **2+ years** of experience turning cryptic problems into crystalline, automized and agentic solutions.
+I'm **Sankalp Indish** — **AI Engineer at Eastern Enterprise** with **2+ years** of experience turning cryptic problems into crystalline, automized and agentic solutions. Specialising in **Generative AI**, **Agentic Automation**, **RAG pipelines**, and **end-to-end intelligent systems**.
 
 ### 🧭 From Pixels to Prompts — The Transition
 
@@ -102,8 +121,9 @@ recharge:    basketball  ·  chess  ·  a plate of golden samosas
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terminal_/_CLI-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img src="https://skillicons.dev/icons?i=bash,powershell" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
 
 #### 🎨 Full Stack
 <img src="https://skillicons.dev/icons?i=react,redux,nextjs,typescript,nodejs,tailwind,html,css,js" />
@@ -199,17 +219,17 @@ recharge:    basketball  ·  chess  ·  a plate of golden samosas
 ## 📊 GitHub Constellation
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=DevelopingGod&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6" alt="streak"/>
+  <img src="https://streak-stats.demolab.com/?user=DevelopingGod&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6" alt="Sankalp Indish GitHub streak stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevelopingGod&theme=tokyo_night" alt="stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevelopingGod&theme=tokyo_night" alt="top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevelopingGod&theme=tokyo_night" alt="Sankalp Indish GitHub contribution stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevelopingGod&theme=tokyo_night" alt="Sankalp Indish top programming languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevelopingGod&theme=tokyo_night" alt="most commit language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevelopingGod&theme=tokyo_night&utcOffset=5.5" alt="productive time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevelopingGod&theme=tokyo_night" alt="Sankalp Indish most-committed language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevelopingGod&theme=tokyo_night&utcOffset=5.5" alt="Sankalp Indish coding productive time"/>
 </div>
 
 ---
@@ -247,13 +267,19 @@ I'm always open to **serendipitous networking** — whether that's a chilled gla
 <br/>
 
 <a href="https://www.linkedin.com/in/sankalp-indish/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://sites.google.com/view/sankalp-indish/">
-  <img src="https://img.shields.io/badge/Visit_Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://sankalp-indish-all-projects.vercel.app/">
-  <img src="https://img.shields.io/badge/Browse_Projects-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.sankalp.expensebuilder&hl=en-IN">
+  <img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=googleplay&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -262,10 +288,32 @@ I'm always open to **serendipitous networking** — whether that's a chilled gla
 
 </div>
 
+---
+
+<!-- ============================================================ -->
+<!--                   SEO DISCOVERY BLOCK                         -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+### 🔎 Find Sankalp Indish Online
+
+<sub>
+
+**Sankalp Indish** · AI Engineer · GenAI Developer · Agentic Automation Architect · Full Stack Engineer · India
+
+[GitHub](https://github.com/DevelopingGod) · [LinkedIn](https://www.linkedin.com/in/sankalp-indish/) · [Portfolio](https://sites.google.com/view/sankalp-indish/) · [Project Archive](https://sankalp-indish-all-projects.vercel.app/) · [Google Play](https://play.google.com/store/apps/details?id=com.sankalp.expensebuilder&hl=en-IN) · [ORCID](https://orcid.org/0009-0003-5812-2545)
+
+</sub>
+
+<sub><i>Keywords: Sankalp Indish, AI Engineer India, GenAI Engineer, Agentic AI Developer, LLM Engineer, RAG Developer, Intelligent Automation, Anthropic Claude, OpenAI, LangChain, HuggingFace, Power Automate, Azure, GCP, BigQuery, Tableau, Power BI, Python, TypeScript, React, Next.js, .NET, C#, MongoDB, Big Data, Full Stack Developer, Eastern Enterprise, IEEE, DevelopingGod.</i></sub>
+
+</div>
+
 <!-- ============================================================ -->
 <!--                          FOOTER                               -->
 <!-- ============================================================ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,10,30&height=120&section=footer" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,10,30&height=120&section=footer&text=Thanks%20for%20visiting%20%E2%80%94%20Sankalp%20Indish&fontSize=18&fontColor=ffffff&fontAlignY=80&animation=fadeIn" width="100%" alt="Sankalp Indish - thanks for visiting"/>
 </div>
