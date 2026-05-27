@@ -43,15 +43,36 @@
 
 > *"Greetings, traveler. You've just stumbled across an AI sorcerer in their natural habitat."*
 
-I'm **Sankalp** — **AI Engineer at Eastern Enterprise** with **2+ years** of experience turning cryptic problems into crystalline, data-driven decisions.
+I'm **Sankalp** — **AI Engineer at Eastern Enterprise** with **2+ years** of experience turning cryptic problems into crystalline, automized and agentic solutions.
 
-My odyssey began in the rigid geometry of **Full Stack Development**, then drifted toward the unpredictable dance of **intelligent ecosystems**. Today I transmute raw logic into **agentic wonders** — autonomous architectures that streamline labyrinthine pipelines and unshackle human brilliance from the mundane.
+### 🧭 From Pixels to Prompts — The Transition
+
+My odyssey began in the rigid geometry of **Full Stack Development** — React/Redux UIs, .NET backends, MongoDB schemas, the works. Curiosity then pulled me toward the unpredictable dance of **intelligent ecosystems**, and the move felt less like a leap and more like an evolution: same engineering rigor, far stranger problems.
+
+```text
+2021 ──────► 2024 ──────► 2025 ──────► 2026 ──────► Now
+React/UI    Data &      AI Research   Software      AI Engineer
+Frontend    Analytics   & ML Models   Engineer      @ Eastern Enterprise
+```
+
+### 🪄 What I Do Today
+
+As an AI Engineer, I transmute raw logic into **agentic wonders** — autonomous, end-to-end systems that compress days of work into minutes:
+
+- 🤖 **Agentic Automation** — custom AI agents that shrank a tours client's **6-hour scraping job to 30 minutes** across 5 sources
+- 🔍 **RAG Pipelines & Reporting** — scheduled, executive-grade reporting tools for PMs / CFO / CEO that lifted reporting quality by **85%**
+- 🪄 **GenAI Virtual Assistants** — sales-workflow automation with de-duplication, boosting throughput by **72%**
+- 🧾 **Intelligent Document Processing** — invoice automation that cut accounts-dept workload by **45%**
+- 🔐 **Enterprise AI Tooling** — custom SSO + RBAC-secured dashboards unifying access across applications
+- 🧠 **Applied AI Research** — emotional-profiling models (SVM/MLP) shipped at **95%+ accuracy** via IEEE EMBS
+
+Same engineering brain. Stranger, more interesting problems.
 
 ```yaml
 role:        AI Engineer @ Eastern Enterprise
 experience:  2+ years
 location:    India  ·  remote-friendly worldwide
-focus:       Agentic AI  ·  GenAI Assistants  ·  Intelligent Automation
+core:        Agentic AI  ·  GenAI Assistants  ·  Intelligent Automation  ·  RAG
 recharge:    basketball  ·  chess  ·  a plate of golden samosas
 ```
 
@@ -69,19 +90,36 @@ recharge:    basketball  ·  chess  ·  a plate of golden samosas
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" /><br/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-FF6B6B?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-00C7B7?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge&logo=probot&logoColor=white"/>
+
+#### 🤖 AI Dev Stack
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terminal_/_CLI-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=bash,powershell" />
 
 #### 🎨 Full Stack
 <img src="https://skillicons.dev/icons?i=react,redux,nextjs,typescript,nodejs,tailwind,html,css,js" />
 
-#### 🗄️ Backend & Data
-<img src="https://skillicons.dev/icons?i=cs,dotnet,mongodb,postgres,mysql" /><br/>
+#### 🗄️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mongodb,postgres,mysql" />
+
+#### 📊 Data, BI & Big Data
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Big_Data-25A162?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 
-#### ☁️ Cloud & Toolbelt
+#### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=azure,gcp,docker,git,github,vercel,vscode,figma" />
 
 </div>
@@ -161,12 +199,17 @@ recharge:    basketball  ·  chess  ·  a plate of golden samosas
 ## 📊 GitHub Constellation
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DevelopingGod&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" alt="stats"/>
-  <img height="180" src="https://streak-stats.demolab.com/?user=DevelopingGod&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6" alt="streak"/>
+  <img src="https://streak-stats.demolab.com/?user=DevelopingGod&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6" alt="streak"/>
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevelopingGod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" alt="top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevelopingGod&theme=tokyo_night" alt="stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevelopingGod&theme=tokyo_night" alt="top languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevelopingGod&theme=tokyo_night" alt="most commit language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevelopingGod&theme=tokyo_night&utcOffset=5.5" alt="productive time"/>
 </div>
 
 ---
