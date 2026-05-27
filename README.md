@@ -1,5 +1,5 @@
 <!-- ============================================================ -->
-<!-- SEO META | Sankalp Indish — AI Engineer · GenAI · Agentic AI -->
+<!-- SEO META | Engineerise Indish — AI Engineer · GenAI · Agentic AI -->
 <!-- ============================================================ -->
 <!--
   Sankalp Indish | Sankalp Indish GitHub | Sankalp Indish Portfolio
@@ -7,7 +7,7 @@
   GenAI Engineer | LLM Engineer | RAG Developer | Intelligent Automation
   Full Stack Developer India | Python Developer | TypeScript Developer
   React Developer | Next.js Developer | .NET Developer | C# Developer
-  Eastern Enterprise AI Engineer | IEEE Member | Pune AI Engineer
+   AI Engineer | IEEE Member | Pune AI Engineer
   DevelopingGod | sankalp-indish | sankalp.indish
   Anthropic Claude | OpenAI | LangChain | HuggingFace | Power Automate
   Azure | GCP | BigQuery | Tableau | Power BI | MongoDB | Big Data
